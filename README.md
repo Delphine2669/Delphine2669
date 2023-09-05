@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delphine2669&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delphine2669&layout=compact)
+
 # 👋 Hi there I'm Delphine, a French gal, a wanderluster who loves to learn 👩🏾‍💻
 
 - 🌱 I’m currently learning **Javascript** and **TypeScript** in order to become a FullStack Dev.
