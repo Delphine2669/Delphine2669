@@ -3,10 +3,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delphine2669&layout=compact)
 
 - 🌱 I’m currently learning **Javascript** and **TypeScript** in order to become a FullStack Dev.
-- 🔭 I’m currently working on my portfolio.
+- 🔭 I am soon passing my French FullStack Dev diploma
+- My portfolio is a work in progress
 - 💻 My future goal is to enroll into the Apple Developper Academy. iOS junior dev.
 
-#### - 🚨 I am actively looking for an internship from October 2nd 2023 to mid December. You can look up my <a href="https://delphine-t-2669.com">Resume</a>
+#### - 🚨 I am actively looking for an internship. You can look up my <a href="https://delphine-t-2669.com](https://portfolio.delphine-t-2669.com/resume">Resume</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delphine2669&show_icons=true&theme=synthwave)
 
