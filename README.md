@@ -4,10 +4,10 @@
 
 - 🌱 I’m currently learning **Javascript** and **TypeScript** in order to become a FullStack Dev.
 - 🔭 I am soon passing my French FullStack Dev diploma
-- My portfolio is a work in progress
+- My <a href="https://portfolio.delphine-t-2669.com">portfolio</a> is a work in progress
 - 💻 My future goal is to enroll into the Apple Developper Academy. iOS junior dev.
 
-#### - 🚨 I am actively looking for an internship. You can look up my <a href="https://delphine-t-2669.com](https://portfolio.delphine-t-2669.com/resume">Resume</a>
+#### - 🚨 I am actively looking for an internship. You can look up my <a href="https://portfolio.delphine-t-2669.com/resume">Resume</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delphine2669&show_icons=true&theme=synthwave)
 
